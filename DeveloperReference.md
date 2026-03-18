@@ -50,7 +50,7 @@ To download and use the files:
   Inputs: startyear, endyear  
   Outputs: List of \#1 album within the year range  
   Function: Lists out the \#1 album between the startyear and the endyear along with their release year, album name, and artist name.  
-  ![refnumber_one_album.png](/images/refnumber_one_album.png)
+  ![refnumber_one_albums.png](/images/refnumber_one_albums.png)
 
 
 ### albums\_by\_year.R
@@ -60,7 +60,7 @@ To download and use the files:
   Outputs: Ranking of albums in selected year  
   Function: Lists out the ranking of albums in user inputted year
 
-	![refalbum_by_year.png](/images/refalbum_by_year.png)
+	![refalbums_by_year.png](/images/refalbums_by_year.png)
 
 ### albums\_by\_band.R
 
@@ -68,7 +68,7 @@ To download and use the files:
   Inputs: band  
   Outputs: List of all albums from input band  
   Function: Filters out the album data by band name.  
-  ![refalbums_by_bands.png](/images/refalbums_by_bands.png)
+  ![refalbum_by_bands.png](/images/refalbum_by_bands.png)
     
 * band\_mean\_rating  
   Inputs: band  
