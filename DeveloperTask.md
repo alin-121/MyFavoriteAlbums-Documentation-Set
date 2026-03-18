@@ -77,7 +77,7 @@ Source(“vinyl\_owned.R”)
                     actionButton("action\_button4", label \= "Submit"),  
                     tableOutput("vinyl\_owned\_table"))
 ```
-> For more features from the installed packages visit the [Developer FAQs](#frequently-asked-questions-faqss) page for more resources
+> For more features from the installed packages visit the [Developer FAQs](#frequently-asked-questions-faqs) page for more resources
 
 ---
 
