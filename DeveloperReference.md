@@ -1,7 +1,7 @@
 # References for Developers
 FAQs, references for existing functions, and Shinyapps.io accounts. 
 
-## Frequently Asked Questions (FAQ)  
+## Dev Frequently Asked Questions (FAQs)  
 ### How do I use R files?  
 To use R files, you must download RStudio from the [RStudio download site](https://posit.co/download/rstudio-desktop/).  
 Follow the instructions on the page and RStudio will be ready to use on your computer.
