@@ -2,9 +2,9 @@
 
 ## &nbsp; MyFavoriteAlbums
 
-* [Home](README.md)
+* [<span style="font-size: 1.3em;">**Home**](README.md)
 
-* For Users
+* <span style="font-size: 1.2em;">For Users
 
   * [User Overview](UserOverview.md)
     * [What is My Favorite Albums?](#what-is-my-favorite-albums)
@@ -21,7 +21,7 @@
       * [Vinyl](#vinyl)
   * [Frequently Asked Questions (FAQs)](UserReference.md)
   
-* For Developers 
+* <span style="font-size: 1.2em;">For Developers 
 
   * [Developer Overview](DeveloperOverview.md)
     * [Current Features](#current-features)
