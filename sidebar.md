@@ -35,7 +35,7 @@
     * [Implementing a New Feature](#implementing-a-new-feature)
   * [Publishing Your Own MyFavoriteAlbums Website](#publishing-your-own-myfavoritealbums-website)
 * [References for Developers](DeveloperReference.md)
-  * [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
+  * [Dev Frequently Asked Questions (FAQs)](#dev-frequently-asked-questions-faqs)
   * [MyFavoriteAlbums Existing Functions](#myfavoritealbums-existing-functions)
     * [home.R](#homer)
     * [number_one_albums.R](#number_one_albumsr)
